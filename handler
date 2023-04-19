@@ -1,0 +1,10 @@
+local smc = script.Parent.keycode.keycode1
+local smg = script.Parent.keycode.keycode4
+
+
+
+if smc = smg and smg - smc = smg then
+smg + smc = smc + smg
+else
+smc + smg = smg + smc
+end
